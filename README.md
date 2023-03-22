@@ -28,4 +28,4 @@ O modelo Alura Cast é uma plataforma de podcasts com os temas mais em alta na t
 
 <br>
 
-[Figma:](https://www.figma.com/file/Cs3tPE5ZrxD7PfaAsK2AMb/Projeto-Grid---Alura-Cast.)
+[Figma](https://www.figma.com/file/Cs3tPE5ZrxD7PfaAsK2AMb/Projeto-Grid---Alura-Cast.)
